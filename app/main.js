@@ -1,7 +1,7 @@
 //main here is index.js there
 import React from 'react'
 import {render} from 'react-dom'
-import { Router, Route, hashHistory, IndexRoute } from 'react-router'
+import { Router, Route, hashHistory, IndexRoute, IndexLink } from 'react-router'
 import App from './App'
 import Home from './Home'
 import About from './About'
